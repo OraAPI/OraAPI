@@ -1,1 +1,1 @@
-API for Minecraft Utility Mod @OraMC
+API for Minecraft Utility Mod
